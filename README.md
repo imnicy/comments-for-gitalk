@@ -1,2 +1,3 @@
 # comments-for-gitalk
-https://imnicy.com中的评论数据
+https://imnicy.com
+中的评论数据
